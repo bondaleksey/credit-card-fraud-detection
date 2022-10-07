@@ -1,5 +1,5 @@
-# credit-card-fraud-detection
-Данный проект является тренировочным, для его реализации используется [источник](https://fraud-detection-handbook.github.io/fraud-detection-handbook/).
+# Credit card fraud detection system
+Данный проект является тренировочным. Основой данного проекта являются [материалы](https://fraud-detection-handbook.github.io/fraud-detection-handbook/).
 
 
 
