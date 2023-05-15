@@ -129,5 +129,9 @@ dmypy.json
 .pyre/
 
 # scripts for testing
-scripts/
-scripts_ycp/
+mt_scripts/
+mt_scripts_ycp/
+sdata/
+ya_folder
+*.stackdump
+*.aws

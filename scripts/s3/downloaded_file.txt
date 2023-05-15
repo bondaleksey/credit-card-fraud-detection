@@ -1,0 +1,1 @@
+Just test file to check connection with S3 yandex bucket 15 05 2023

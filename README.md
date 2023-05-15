@@ -61,3 +61,9 @@ $$ P@k(d) = \frac{|A^{fraud}_{d}|}{|A_{d}|} = \frac{|A^{fraud}_{d}|}{k}$$
 
 ## План работ
 Текущие задачи и план работ представлен на [GitHub](https://github.com/bondaleksey/credit-card-fraud-detection/issues).
+
+
+# Файлы для анализа находятся в s3:
+файлы были скопированы с помощью скрипта `scripts/s3/boto_copy_fraud_data.py`
+Например, один из файлов имеет адрес:
+https://storage.yandexcloud.net/bond-ccfd/fraud-data/2019-08-22.txt
